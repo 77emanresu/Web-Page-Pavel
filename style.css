@@ -1,0 +1,29 @@
+.logo{text-align: center;
+    margin-bottom:50px;}
+
+h3{text-align:center;
+    margin-top:100px;}
+
+p{text-align: center;
+    margin-bottom:50px auto;}
+
+.p1{font-size:28px;
+    font-family: monospace;
+    margin: 0 100px;}
+
+.p2{font-family:italic;
+    font-size:25px;
+    margin: 0px 150px;
+    color:cornflowerblue;}
+
+.p3{font-family:arial;
+    font-size:22px;
+    color:blueviolet;
+    margin:0px 550px;}
+
+.list {margin: 100px 800px;
+    outline:1px solid black;
+    padding:50px;}
+
+a{text-decoration: none;
+    color:dimgray;}
